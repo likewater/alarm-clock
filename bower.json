@@ -1,0 +1,25 @@
+{
+  "name": "alarm-clock",
+  "description": "\"alarm clock\"",
+  "main": "index.js",
+  "authors": [
+    "\"Blake Womack\""
+  ],
+  "license": "ISC",
+  "keywords": [
+    "\"clock\""
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "bootstrap": "^3.3.7",
+    "moment": "^2.18.1"
+  }
+}
